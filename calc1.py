@@ -7,11 +7,10 @@ print(25//2) # quociente (parte inteira da divisao, sem casa dec)
 print(25%2)  # resto da divisao (int)
 
 # 3² = 3 * 3
-print(3**2)
+print(3**2)  # potência
 
 # 4³ = 4 * 4 * 4
 print(4**3)
-
 
 quantidade = 18
 preço = 7.30
