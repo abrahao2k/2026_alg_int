@@ -1,0 +1,10 @@
+# UM VALOR NO PARÊNTESE
+# RANGE(10) - SEQUENCIA DE 0 A 9
+# RANGE(25) - SEQUENCIA DE 0 A 24
+# RANGE(100) - SEQUENCIA DE 0 A 99
+# SEMPRE PARA 1 NUMERO ANTES
+# AUMENTA DE 1 EM 1
+
+sequencia = list( range(10) )
+
+print(sequencia)
