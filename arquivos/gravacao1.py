@@ -1,0 +1,5 @@
+arq = open("novo.txt","w")
+arq.write("Que legal!\n")
+arq.write("Python é top!\n")
+arq.close()
+print("Gravado com sucesso.")
